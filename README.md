@@ -57,3 +57,23 @@ Farklı ürünler için kontrol profilleri oluşturulmuş ve tespit edilen nesne
 - Model doğruluğunun artırılması
 - Barkod ve etiket kontrollerinin geliştirilmesi
 - Raporlama sisteminin genişletilmesi
+
+## Ekran Görüntüleri
+
+### Uygulama Arayüzü
+
+![Uygulama Arayüzü](application.png)
+
+### Gerçek Zamanlı Nesne Tespiti
+
+![YOLO Nesne Tespiti](detection.png)
+
+### Analiz ve Kalite Kontrol Sonucu
+
+![Analiz Sonucu](analysis.png)
+
+## Örnek Rapor
+
+Proje tarafından oluşturulan örnek kalite kontrol raporuna aşağıdaki bağlantıdan ulaşılabilir:
+
+[Örnek Kalite Kontrol Raporunu Görüntüle](sample-quality-report.pdf)
